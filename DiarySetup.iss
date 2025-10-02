@@ -1,8 +1,3 @@
-dotnet ef migrations add InitialCreate
-dotnet ef database update
-
-
-
 [Setup]
 AppName=My Diary
 AppVersion=1.0
