@@ -1,0 +1,45 @@
+# Build Folders
+bin/
+obj/
+Debug/
+Release/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vs/
+
+# SQLite Database (optional: keep if you want to version control initial schema/data)
+*.db
+
+# Auto-generated files
+*.log
+*.cache
+
+# Publish outputs
+*.exe
+*.dll
+*.pdb
+
+# Backup files
+*.tmp
+*.bak
+
+# Resharper / Rider
+_ReSharper*/
+*.DotSettings.user
+
+# Packages
+packages/
+*.nupkg
+
+# Other IDE files
+*.idea/
+*.DS_Store
+
+# Ignore Test Results
+TestResult*/
